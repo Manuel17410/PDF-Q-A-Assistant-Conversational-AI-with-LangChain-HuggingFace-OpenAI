@@ -1,12 +1,8 @@
-# PDF AI Chat: Interactive Q&A with Hugging Face & LangChain
+# PDF Q&A Assistant: Conversational AI with LangChain, HuggingFace & OpenAI
 
 https://pdf-reader-nwtsrtag8cax6jrc73ddpw.streamlit.app/
 
-PDF AI Chat is a Python-based application that allows users to upload multiple PDFs and ask questions about their content. It uses a language model to generate answers but is not designed for open-ended conversations, so it may not respond to greetings or engage in complex reasoning.
-
-For more natural interactions, a more powerful GPU (which speeds up processing of the FLAN-T5-large model on HuggingFaceHub) or access to premium models like OpenAI’s is required. Upgrading to GPT-4, combined with a GPU, would enhance performance, enabling more complex and human-like responses. Currently, the FLAN-T5-large model on a CPU may limit performance. Using a GPU or OpenAI’s advanced models improves both processing speed and language understanding.
-
-Accessing a GPU and OpenAI’s models requires payment. Once paid, adapting the provided code for use with these resources would be straightforward, offering improved performance and the ability to handle more sophisticated queries.
+Web application that uses advanced language models (GPT-3.5-turbo) to enable interactive question-answering and insight extraction from uploaded PDF documents. Users can upload multiple PDFs, select one to analyze, and ask questions via text or voice input. The app processes the PDF content using embeddings and vector search to provide relevant, conversational answers. For enhanced usability, chat history can be exported as text or PDF files. This tool streamlines the process of extracting and interacting with information hidden in complex documents.
 
 ## Video Demonstration of the App on YouTube
 
