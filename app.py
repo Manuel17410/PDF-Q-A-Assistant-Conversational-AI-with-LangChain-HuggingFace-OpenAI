@@ -12,6 +12,8 @@ from langchain.vectorstores import FAISS
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.memory import ConversationBufferMemory
 from langchain.text_splitter import CharacterTextSplitter
+import torch
+import torchvision
 
 # Disable GPU usage
 os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
