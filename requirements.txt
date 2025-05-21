@@ -1,0 +1,10 @@
+streamlit
+speechrecognition
+PyPDF2
+fpdf
+python-dotenv
+langchain
+openai
+faiss-cpu
+sentence-transformers
+
