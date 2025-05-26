@@ -130,9 +130,9 @@ class PDFChatAssistant:
 
         # Input handling
         question = ""
-        if st.button("🎤 Ask with Voice"):
-            question = self.listen_for_question()
-        else:
+        #if st.button("🎤 Ask with Voice"):
+            #question = self.listen_for_question()
+        #else:
             question = st.text_input("💬 Ask about your PDFs:", placeholder="Type your question here...")
 
         if question:
