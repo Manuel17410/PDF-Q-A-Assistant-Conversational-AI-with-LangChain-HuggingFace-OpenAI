@@ -4,7 +4,7 @@ Web application that uses advanced language models (GPT-3.5-turbo) to enable int
 
 
 Sometimes after clicking the link below, you may get a "Zzzz , This app has gone to sleep due to inactivity. Would you like to wake it back up?" , then just click "Yes, get this back app" and it will load. It could take a few seconds.
-Link to the app: https://pdf-q-a-assistant-clone-aodkhflaxqdgqe4bxj8jjr.streamlit.app/
+Link to the app: https://scruzbu3cqvpf2qvtohfkz.streamlit.app/
 
 ## Logic of the App (Backend explanation)
 
